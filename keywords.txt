@@ -1,0 +1,24 @@
+###########################################
+# Syntax Coloring Map For BLEKBeacon Library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+BLEKBeacon	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+setData	KEYWORD2
+getVoltage	KEYWORD2
+getTemperature	KEYWORD2
+getHumidity	KEYWORD2
+getAccelerometer_X	KEYWORD2
+getAccelerometer_Y	KEYWORD2
+getAccelerometer_Z	KEYWORD2
+
+###########################################
+# Constants (LITERAL1)
+###########################################
